@@ -1,4 +1,4 @@
-# dead-by-daylight-grid-game
+# grid-game-avoid-the-killer
 
 A simple grid-based game where the player navigates through the grid to avoid the killer, with obstacles like pallets, bushes, and generators blocking the path inspired by the popular horror game Dead by Daylight. 
 
